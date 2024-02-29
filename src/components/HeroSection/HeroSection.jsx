@@ -1,4 +1,5 @@
 import { Fragment } from "react";
+import BannerImg from "../../assets/hero-graphics.svg"
 
 export default function HeroSection() {
     return (
@@ -10,7 +11,7 @@ export default function HeroSection() {
                     <div className="grid md:grid-cols-2 items-center w-10/12 mx-auto">
                         <img
                             className="md:order-2 object-cover ml-auto animate-updown"
-                            src="./assets/hero-graphics.svg"
+                            src={BannerImg}
                             width="500px"
                             height="500px"
                             alt="Banner"
