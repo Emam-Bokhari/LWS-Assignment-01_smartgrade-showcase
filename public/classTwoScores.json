@@ -1,0 +1,66 @@
+[
+    {
+    "id": 1, 
+    "image":"https://img.freepik.com/free-photo/close-up-portrait-smiling-young-bearded-man_171337-4819.jpg?w=1380&t=st=1705136716~exp=1705137316~hmac=f2c6482dc983640ecfe59d360e9a70bcc87b91436313c06ea4dacfcb9a340407",
+    "name": "Liam Martinez", 
+    "scores": "B-", 
+    "percentage": "80%"
+},
+    {
+    "id": 2, 
+    "image":"https://img.freepik.com/free-photo/young-beautiful-woman-smiling-posing-purple-wall_176420-2852.jpg?w=1380&t=st=1705136658~exp=1705137258~hmac=1f434673e7cdcb3710b15d7cafeb5b3add37cd53fba0be63f2757992c3d0749c",
+    "name": "Emma Turner", 
+    "scores": "A+", 
+    "percentage": "97%"
+},
+    {
+    "id": 3, 
+    "image":"https://img.freepik.com/free-photo/handsome-young-man-with-new-stylish-haircut_176420-19636.jpg?w=1380&t=st=1705136716~exp=1705137316~hmac=df74224ec23efbd617145291bc3831aa5975a7d48e71915bd120a5aa625e6feb",
+    "name": "Noah Harris", 
+    "scores": "B", 
+    "percentage": "89%"
+},
+    {
+    "id": 4, 
+    "image":"https://img.freepik.com/free-photo/portrait-young-tender-woman-with-healthy-freckled-skin_158595-3947.jpg?w=1380&t=st=1705135961~exp=1705136561~hmac=961f082e3de377f882e1fbef6494bf1714310f4b4333721e7e4083f66fec8d77",
+    "name": "Ava Lee", 
+    "scores": "A-", 
+    "percentage": "92%"},
+    {
+    "id": 5, 
+    "image":"https://img.freepik.com/free-photo/porait-cute-boy-cafe_23-2148436119.jpg?w=1380&t=st=1705136714~exp=1705137314~hmac=10022176909c4db095c63b7aae6b8aab465a54b35ca464b656b0100001f7160a",
+    "name": "Jackson Clark", 
+    "scores": "A", 
+    "percentage": "94%"},
+    {
+    "id": 6, 
+    "image":"https://img.freepik.com/free-photo/smiling-young-brunette-caucasian-man-isolated-pink-wall-with-copy-space_141793-116910.jpg?w=1060&t=st=1705136713~exp=1705137313~hmac=0b00155b09cc454b6a1f3c86c4f2ab556e9ef405575dd81cbf9200112ec63198",
+    "name": "Sophie Johnson", 
+    "scores": "B+", 
+    "percentage": "86%"},
+    {
+    "id": 7, 
+    "image":"https://img.freepik.com/free-photo/guy-plaid-shirt_158595-126.jpg?w=826&t=st=1705136711~exp=1705137311~hmac=0e44bdcee4af4f4a6ce3f77c8161611ffae0f5d3a3f0038c9f8f2584f37ad5fe",
+    "name": "Carter Adams", 
+    "scores": "A", 
+    "percentage": "93%"},
+    {
+    "id": 8, 
+    "image":"https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?w=1380&t=st=1705136711~exp=1705137311~hmac=626ca8a4b5d1532372005daba60b12dbb223fc93fa48d70a4845e4efa4888592",
+    "name": "Chloe Baker", 
+    "scores": "B", 
+    "percentage": "88%"},
+    {
+    "id": 9, 
+    "image":"https://img.freepik.com/free-photo/handsome-business-man-posing-close-up_23-2148336823.jpg?w=1380&t=st=1705136710~exp=1705137310~hmac=62d76eb305ef33690d473938d0c7e7d9590ed0f559797cd9ed8d470098a7667b",
+    "name": "Mason King", 
+    "scores": "A+", 
+    "percentage": "96%"},
+    {
+    "id": 10, 
+    "image":"https://img.freepik.com/free-photo/worldface-spanish-man-white-background_53876-139733.jpg?w=1380&t=st=1705136709~exp=1705137309~hmac=c423e437eecf43387082af712edb66e36165c3c4831f2049402b6301a1e754e8",
+    "name": "Grace Wright", 
+    "scores": "A", 
+    "percentage": "95%"}
+  ]
+  
